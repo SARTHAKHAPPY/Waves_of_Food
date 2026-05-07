@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "1145816555",
+    "firebase_url": "https://waves-of-food-3681c-default-rtdb.firebaseio.com",
+    "project_id": "waves-of-food-3681c",
+    "storage_bucket": "waves-of-food-3681c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1145816555:android:09742e9cbec9e8343185ae",
+        "android_client_info": {
+          "package_name": "com.example.adminwavesoffood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1145816555-gnuna2ddjgqi0ee2gssgqi9d911e5iiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminwavesoffood",
+            "certificate_hash": "47953facd38d26bd27e398e3c851935ddb47cd9d"
+          }
+        },
+        {
+          "client_id": "1145816555-1q924mcke7a12qj5ce1rurknq12gpiic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAggX_cEnK4KDAdZw5zsjkhQnvgmuc7TcY"
+        },
+        {
+          "current_key": "AIzaSyDnVWyzTQw8dieP2qcHvWplXCB04QJJ6Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1145816555-1q924mcke7a12qj5ce1rurknq12gpiic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1145816555:android:6872782741d260f03185ae",
+        "android_client_info": {
+          "package_name": "com.example.adminwavesoffood2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1145816555-1q924mcke7a12qj5ce1rurknq12gpiic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAggX_cEnK4KDAdZw5zsjkhQnvgmuc7TcY"
+        },
+        {
+          "current_key": "AIzaSyDnVWyzTQw8dieP2qcHvWplXCB04QJJ6Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1145816555-1q924mcke7a12qj5ce1rurknq12gpiic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1145816555:android:076ba2dd808aa4473185ae",
+        "android_client_info": {
+          "package_name": "com.example.wavesoffood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1145816555-jb8bo16ihbhesjutnnsip5rqfibiq8mj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wavesoffood",
+            "certificate_hash": "47953facd38d26bd27e398e3c851935ddb47cd9d"
+          }
+        },
+        {
+          "client_id": "1145816555-1q924mcke7a12qj5ce1rurknq12gpiic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAggX_cEnK4KDAdZw5zsjkhQnvgmuc7TcY"
+        },
+        {
+          "current_key": "AIzaSyDnVWyzTQw8dieP2qcHvWplXCB04QJJ6Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1145816555-1q924mcke7a12qj5ce1rurknq12gpiic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1145816555:android:8684ba8207f91c8d3185ae",
+        "android_client_info": {
+          "package_name": "com.example.wavesoffood2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1145816555-1q924mcke7a12qj5ce1rurknq12gpiic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAggX_cEnK4KDAdZw5zsjkhQnvgmuc7TcY"
+        },
+        {
+          "current_key": "AIzaSyDnVWyzTQw8dieP2qcHvWplXCB04QJJ6Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1145816555-1q924mcke7a12qj5ce1rurknq12gpiic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
